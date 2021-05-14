@@ -1,0 +1,21 @@
+# Setup
+title:               nCovMemory
+tagline:             'An Analysis'
+description:         'Computer generated analysis of the nCvoMemory project, a database of articles related to the coronavirus epidemy in China'
+url:                 http://lanyon.getpoole.com
+baseurl:             '/lanyon/'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Alqua
+  url:               https://github.com/Alqua
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
