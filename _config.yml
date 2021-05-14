@@ -2,8 +2,8 @@
 title:               nCovMemory
 tagline:             'An Analysis'
 description:         'Computer generated analysis of the nCvoMemory project, a database of articles related to the coronavirus epidemy in China'
-url:                 http://lanyon.getpoole.com
-baseurl:             '/lanyon/'
+url:                 https://alqua.github.io/website-nCovMemory-analysis/
+baseurl:             '/website-nCovMemory-analysis/'
 paginate:            5
 permalink:           pretty
 
