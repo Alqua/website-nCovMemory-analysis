@@ -15,9 +15,9 @@ The source code to generate both LDA analysis are available on my GitHub.
 
 ## First LDA analysis
 without occurence filter (gensim filter extreme)
-<iframe src="files/1LDA_output11s-0.html" height="870px" width="100%" style="border:none;"> </iframe>
+<iframe src="website-nCovMemory-analysis/files/1LDA_output11s-0.html" height="870px" width="100%" style="border:none;"> </iframe>
 
 
 ## Second LDA analysis
 With occurence filter (gensim filter extremes ->no_above= 0.26) 
-<iframe src="files/3LDA_output8s-026.html" height="870px" width="100%" style="border:none;"> </iframe>
+<iframe src="website-nCovMemory-analysis/files/3LDA_output8s-026.html" height="870px" width="100%" style="border:none;"> </iframe>
