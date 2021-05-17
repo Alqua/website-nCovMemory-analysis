@@ -44,7 +44,7 @@ Note on navigation: opening the menu will bring you back to the top of the page.
 
 ## Number of articles per publication website without wechat/weixin crossing with media
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_x_website_without_weixin.html" height="600px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_x_website_without_weixin.html" height="1000px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per media category
 
