@@ -6,8 +6,9 @@ title: Data Graphs on articles
 * TOC
 {:toc}
 
-# Introduction
+## Introduction
 Here will be published some explainations on the graphs.
+Note on navigation: opening the menu will bring you back to the top of the page.
 
 ## Number of censored articles per category
 
@@ -31,11 +32,11 @@ Here will be published some explainations on the graphs.
 
 ## Number of articles per publication website
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="2200px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites.html" height="2200px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website without wechat/weixin
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website crossing with media
 
@@ -45,4 +46,10 @@ Here will be published some explainations on the graphs.
 
 <iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_x_website_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
 
+## Number of articles per media category
 
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media-category.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+## Number of articles per website crossing with media category
+
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_website-X-media-category.html" height="2200px" width="100%" style="border:none;"> </iframe>
