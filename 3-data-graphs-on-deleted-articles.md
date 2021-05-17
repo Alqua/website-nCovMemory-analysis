@@ -24,7 +24,7 @@ Here will be published some explainations on the graphs.
 
 ## Number of censored articles per publication website
 
-<iframe src="/website-nCovMemory-analysis/graphs/censored/censored_graph_websites.html" height="700px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/censored/censored_graph_websites.html" height="600px" width="100%" style="border:none;"> </iframe>
 
 ## Number of censored articles per media, crossing with publication website
 
@@ -40,7 +40,7 @@ Here will be published some explainations on the graphs.
 
 ## Number of articles per media category
 
-<iframe src="/website-nCovMemory-analysis/graphs/censored/censored_graph_media-category.html" height="700px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/censored/censored_graph_media-category.html" height="600px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website crossing with media category
 

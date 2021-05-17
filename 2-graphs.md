@@ -27,4 +27,22 @@ Here will be published some explainations on the graphs.
 
 ## Number of articles per media
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="1100px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+## Number of articles per publication website
+
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+## Number of articles per publication website without wechat/weixin
+
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+## Number of articles per publication website crossing with media
+
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_x_website.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+## Number of articles per publication website without wechat/weixin crossing with media
+
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media_x_website_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
+
+
