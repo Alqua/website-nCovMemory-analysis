@@ -28,15 +28,15 @@ Note on navigation: opening the menu will bring you back to the top of the page.
 
 ## Number of articles per media
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="2200px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_media.html" height="2500px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites.html" height="2200px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites.html" height="1000px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website without wechat/weixin
 
-<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites_without_weixin.html" height="2200px" width="100%" style="border:none;"> </iframe>
+<iframe src="/website-nCovMemory-analysis/graphs/whole_data/graph_websites_without_weixin.html" height="1000px" width="100%" style="border:none;"> </iframe>
 
 ## Number of articles per publication website crossing with media
 
