@@ -6,6 +6,10 @@ title: Articles on maps
 * TOC
 {:toc}
 
+## Introduction
+
+This page will be updated shortly!
+
 ## Number of articles per publication's places
 
 <iframe src="/website-nCovMemory-analysis/files/freq_places_of_publication.html" height="870px" width="100%" style="border:none;"> </iframe>
