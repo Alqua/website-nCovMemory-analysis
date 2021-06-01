@@ -7,9 +7,9 @@ title: LDA Theme analysis
 {:toc}
 
 ## Introduction
-This is a presentation of two LDA theme analysis. The first one has been generated without an occurence filter and the second one with a filter. In the second analysis, the theme are better defined but we must keep in mind that the articles talks first about the theme extracted in the first one, especially the general extraction theme (0 in the theme selection). In our case, the first analysis tells us that the articles mostly deal with the epidemy or coronavirus in China, as expected.
+This is a presentation of two LDA theme analysis. The first one has been generated without an occurence filter and the second one with a filter. In our case, the first analysis tells us that the articles mostly deal with the epidemy or coronavirus in China, as expected.In the second analysis, the theme are better defined and gives us a better idea of the content of the articles besides the coronavirus epidemy. We must however keep in mind that the articles talks first about the theme extracted in the first one, especially the general extraction theme (0 in the theme selection). 
 
-Readers are strongly encouraged to use a chinese-english dictionnary browser extension (such as perapera) if translation is needed. I also translated the [wordlists in french](https://github.com/Alqua/projet-analyse-Ncov/blob/master/ANALYSIS/DATAFRAMES/8subjects%2Bfr.csv).
+Readers are strongly encouraged to use a chinese-english dictionnary browser extension (such as [zhongwen](https://github.com/leezu/zhongwen)) if translation is needed. I also translated the [wordlists in french](https://github.com/Alqua/projet-analyse-Ncov/blob/master/ANALYSIS/DATAFRAMES/8subjects%2Bfr.csv).
 
 The source code to generate both LDA analysis are [available on my GitHub](https://github.com/Alqua/projet-analyse-Ncov/tree/master/ANALYSIS/LDA). The whole process before that, [downloading the articles](https://github.com/Alqua/projet-analyse-Ncov/tree/master/ANALYSIS/DOWNLOAD%20ARTICLES%20with%20R) and [preparing them](https://github.com/Alqua/projet-analyse-Ncov/tree/master/ANALYSIS/CLEANING%20articles) for the analysis is also available.
 
